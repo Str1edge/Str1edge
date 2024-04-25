@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Str1edge
-- 👀 I’m interested in learn python, django, javascript and react!!!
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on web applications.
+- 👀 I’m interested in Javascript!!!
+- 🌱 I’m currently learning Javascrit
 
 
 <!---
