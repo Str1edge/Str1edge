@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Str1edge
-- 👀 I’m interested in Javascript!!!
-- 🌱 I’m currently learning Javascrit
+- 👋 HEY!!!!, BIENVENIDOS A ESTE REPOSITORIO!!!
+- 👀 
 
 
 <!---
