@@ -1,5 +1,5 @@
-- 👋 HEY!!!!, BIENVENIDOS A ESTE REPOSITORIO!!!
-- 👀 
+# 👋 HEY!!!!, BIENVENIDOS A ESTE REPOSITORIO!!!
+## Archivos de ayuda y codigo de las clases
 
 
 <!---
